@@ -29,13 +29,15 @@ Bem-vindo ao meu perfil do GitHub! Sou formado em **Análise e Desenvolvimento d
 
 **Banco de Dados**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<img width="70" height="50" alt="image" src="https://github.com/user-attachments/assets/9f52dcb9-1a0f-4fe8-80e7-4e4750ae07ea" />
+
 
 **Power Platform & Microsoft 365**
 
-![Power Apps](https://img.shields.io/badge/PowerApps-%230078D4.svg?style=for-the-badge&logo=powerapps&logoColor=white)
-![Power Automate](https://img.shields.io/badge/PowerAutomate-%230078D4.svg?style=for-the-badge&logo=powerautomate&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-%230078D4.svg?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+
+<img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/52fc8862-0586-4d98-8369-ab9efbd1491c" />
+<img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/a0bf9d52-b2d4-458e-9ee8-2ec833a91fef" />
+<img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/ec46fa44-8dc1-4471-abf3-3cbdedb1f733" />
 
 **Ferramentas & Design**
 
