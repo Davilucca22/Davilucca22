@@ -51,11 +51,11 @@ Bem-vindo ao meu perfil do GitHub! Sou formado em **Análise e Desenvolvimento d
 
 ### 📫 Contato & Redes
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dev.lucca.br-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dev.lucca.br)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dev.lucca.br-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucca.dev.br)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-davilucca22-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davilucca22/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-Davilucca22-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davilucca22)
+[![Instagram](https://img.shields.io/badge/Instagram-Davilucca22-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.lucca/)
 
 [![E-mail](https://img.shields.io/badge/Email-devilucasdevv@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devilucasdevv@gmail.com)
 
