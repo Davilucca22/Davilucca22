@@ -19,14 +19,13 @@ Bem-vindo ao meu perfil do GitHub! Sou formado em **Análise e Desenvolvimento d
 <img width="50" height="70" alt="image" src="https://github.com/user-attachments/assets/9f314ec1-028a-414d-9405-a2e463df0526" />
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/91d833ac-5cad-4874-8d1b-5af7595007e9" />
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1f3acbbe-1a69-4bee-a898-9a16e0c95661" />
+<img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/12d6de90-4743-439c-857a-bbb789b44585" />
 
 **Backend**
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+<img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/ad22e885-0175-41b1-a4f7-3e072a083415" />
+<img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/97ad58d5-ec55-46ff-9585-6b6121397e96" />
 
 **Banco de Dados**
 
