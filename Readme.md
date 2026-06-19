@@ -17,7 +17,7 @@ Bem-vindo ao meu perfil do GitHub! Sou formado em **Análise e Desenvolvimento d
 
 ![HTML5](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwRJX00CwzceoN2OjcMPf9I71Mgk1raZwbz0A_Hb8-Qg&s=10)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-<img width="207" height="328" alt="image" src="https://github.com/user-attachments/assets/9f314ec1-028a-414d-9405-a2e463df0526" />
+<img width="107" height="200" alt="image" src="https://github.com/user-attachments/assets/9f314ec1-028a-414d-9405-a2e463df0526" />
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
