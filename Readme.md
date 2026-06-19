@@ -19,13 +19,13 @@ Bem-vindo ao meu perfil do GitHub! Sou formado em **Análise e Desenvolvimento d
 <img width="50" height="70" alt="image" src="https://github.com/user-attachments/assets/9f314ec1-028a-414d-9405-a2e463df0526" />
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/91d833ac-5cad-4874-8d1b-5af7595007e9" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1f3acbbe-1a69-4bee-a898-9a16e0c95661" />
-<img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/12d6de90-4743-439c-857a-bbb789b44585" />
+<img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/1f3acbbe-1a69-4bee-a898-9a16e0c95661" />
+<img width="70" height="50" alt="image" src="https://github.com/user-attachments/assets/12d6de90-4743-439c-857a-bbb789b44585" />
 
 **Backend**
 
-<img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/ad22e885-0175-41b1-a4f7-3e072a083415" />
-<img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/97ad58d5-ec55-46ff-9585-6b6121397e96" />
+<img width="70" height="50" alt="image" src="https://github.com/user-attachments/assets/ad22e885-0175-41b1-a4f7-3e072a083415" />
+<img width="70" height="50" alt="image" src="https://github.com/user-attachments/assets/97ad58d5-ec55-46ff-9585-6b6121397e96" />
 
 **Banco de Dados**
 
