@@ -15,7 +15,7 @@ Bem-vindo ao meu perfil do GitHub! Sou formado em **Análise e Desenvolvimento d
 
 **Frontend**
 
-![HTML5](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwRJX00CwzceoN2OjcMPf9I71Mgk1raZwbz0A_Hb8-Qg&s=10)
+<img width="50" height="70" alt="image" src="https://github.com/user-attachments/assets/8987744e-2e98-4441-830d-e97aafd43276" />
 <img width="50" height="70" alt="image" src="https://github.com/user-attachments/assets/9f314ec1-028a-414d-9405-a2e463df0526" />
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/91d833ac-5cad-4874-8d1b-5af7595007e9" />
