@@ -55,11 +55,9 @@ Bem-vindo ao meu perfil do GitHub! Sou formado em **Análise e Desenvolvimento d
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dev.lucca.br-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucca.dev.br)
 
-<a href="https://linkedin.com/in/davilucca22/"><img width="234" height="221" alt="image" src="https://github.com/user-attachments/assets/376ca767-5013-4809-8539-9c523213e754"/></a>
-
-[![Instagram](https://img.shields.io/badge/Instagram-Davilucca22-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.lucca/)
-
-[![E-mail](https://img.shields.io/badge/Email-devilucasdevv@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devilucasdevv@gmail.com)
+<a href="https://linkedin.com/in/davilucca22/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/376ca767-5013-4809-8539-9c523213e754"/></a>
+<a href="https://www.instagram.com/dev.lucca/"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/965df33c-3c16-4098-bde3-b4244c3ddb47" /></a>
+<a href="mailto:devilucasdevv@gmail.com"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/51bd6ad1-4675-4a2b-85d8-4c6aa17ecdfc" /></a>
 
 ---
 <div align="center">
