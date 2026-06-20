@@ -35,9 +35,9 @@ Bem-vindo ao meu perfil do GitHub! Sou formado em **Análise e Desenvolvimento d
 **Power Platform & Microsoft 365**
 
 
-<img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/52fc8862-0586-4d98-8369-ab9efbd1491c" />
-<img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/a0bf9d52-b2d4-458e-9ee8-2ec833a91fef" />
-<img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/ec46fa44-8dc1-4471-abf3-3cbdedb1f733" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/52fc8862-0586-4d98-8369-ab9efbd1491c" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a0bf9d52-b2d4-458e-9ee8-2ec833a91fef" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ec46fa44-8dc1-4471-abf3-3cbdedb1f733" />
 
 **Ferramentas & Design**
 
