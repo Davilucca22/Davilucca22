@@ -55,7 +55,7 @@ Bem-vindo ao meu perfil do GitHub! Sou formado em **Análise e Desenvolvimento d
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dev.lucca.br-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucca.dev.br)
 
-<a src="https://linkedin.com/in/davilucca22/"><img width="234" height="221" alt="image" src="https://github.com/user-attachments/assets/376ca767-5013-4809-8539-9c523213e754" /></a>
+<img width="234" height="221" alt="image" src="https://github.com/user-attachments/assets/376ca767-5013-4809-8539-9c523213e754"><a src="https://linkedin.com/in/davilucca22/"></a></img>
 
 [![Instagram](https://img.shields.io/badge/Instagram-Davilucca22-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.lucca/)
 
