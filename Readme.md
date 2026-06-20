@@ -41,8 +41,8 @@ Bem-vindo ao meu perfil do GitHub! Sou formado em **Análise e Desenvolvimento d
 
 **Ferramentas & Design**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bcb2dc1e-5b71-46e0-9e9c-b598eb83d848" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b48e893c-376e-41e6-abdd-3649805647b3" />
 
 ---
 
